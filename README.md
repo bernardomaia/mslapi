@@ -11,7 +11,7 @@ Fazer o download do projeto. No diretório raiz do projeto, executar o comando:
 ```bash
 composer install
 ```
-**Caso a versão utilizada do PHP seja a 8**: pode ser necessário atualizar o composer como descrito no link:https://getcomposer.org/download/. Neste caso o comando que deve ser executado é: 
+**Caso a versão utilizada do PHP seja a 8**: pode ser necessário atualizar o Composer como descrito no link:https://getcomposer.org/download/. Neste caso o comando que deve ser executado é: 
 ```bash
 php composer.phar install
 ```
