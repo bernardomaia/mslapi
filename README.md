@@ -13,7 +13,7 @@ composer install
 ```
 E em seguida:
 ```bash
-php -S localhost:8000 – t public
+php artisan serve
 ```
 Para enviar requisições para a api, pode-se utilizar uma ferramenta como Postman com a requisição 
 post http://localhost:8000/maxsum
