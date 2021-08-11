@@ -1,11 +1,11 @@
-## Documentação 
+# Documentação 
 
 Para executar a tarefa foi utilizado o framework Laravel. Os arquivos que contêm a lógica relevante para o teste são: 
  * msl-api/app/Http/Controllers/ListController.php: implementação da função que calcula soma máxima do subarray.
  * msl-api/routes/maxsum.php: declara a rota maxsum e realiza a chamada da função apropriada no Controller.
  * msl-api/tests/Feature/MaxsumTest.php: arquivo que executa alguns testes da função implementada.
 
-# Execução 
+## Execução 
 Fazer o download do projeto. No diretório raiz do projeto, executar o comando:
 
 ```bash
